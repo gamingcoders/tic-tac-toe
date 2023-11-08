@@ -1,4 +1,4 @@
-# LAB - Number
+# Project
 
 ## Project Name
 
